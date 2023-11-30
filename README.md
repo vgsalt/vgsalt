@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vgsalt
-- 👀 I’m interested in coding and general IT work
-- 🌱 I’m currently learning things myself and a little bit at school (though I wish I was just at work instead)
+- 👀 I'm kind of OK with coding as a hobby, it's not something I want to work with as a job because I do get burnt out. However I do enjoy IT!
+- 🌱 I’m currently learning things myself and a little bit at school (though I wish I was just at work already)
 - 📫 How to reach me: you can send me an e-mail if you know it
 
 <!---
